@@ -1,19 +1,19 @@
 <!----
-- 👋 Hi, I’m @DhanushaSamaranayake
+- 👋 Hi, I’m @KalpanaFernando
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-DhanushaSamaranayake/DhanushaSamaranayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KalpanaFernando/KalpanaFernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello...!🙋‍♂️, I'm Dhanusha Samaranayake 🤘 </h1>
+<h1 align="center">Hello...!🙋‍♂️, I'm Kalpana Fernando 🤘 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhanushaSamaranayake&label=Profile%20views&color=b60e21&style=flat" alt="DhanushaSamaranayake"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KalpanaFernando&label=Profile%20views&color=b60e21&style=flat" alt="KalpanaFernando"/> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 Currently Learning Android Application Development & Vector Arts
 - 👀 Looking to collaborate with Open Source Projects.
 - 😎 Never stop Dreaming...✨
-- 📫 How to contact me **renukajagath00@gmail.com**
+- 📫 How to contact me **pavithrafernando547@gmail.com**
 - 🎮 Play games and do coding...!🧑‍💻
 
 <br />
@@ -35,9 +35,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/danushasamaran1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danushasamaran1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhanusha-samaranayake-391b2b198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhanusha Samaranayake" height="30" width="40" /></a>
-<a href="https://www.facebook.com/danu.samaranayake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danu.samaranayake" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kalpana-fernando-26a224251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KalpanaFernando" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -58,13 +57,13 @@ You can click the Preview link to take a look at your changes.
 <hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhanushaSamaranayake&&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=black&bg_color=white">
+<img src="https://github-readme-stats.vercel.app/api?username=KalpanaFernando&&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=black&bg_color=white">
 
 <br /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhanushaSamaranayake&show_icons=true&locale=en&layout=compact" alt="DhanushaSamaranayake" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KalpanaFernando&show_icons=true&locale=en&layout=compact" alt="KalpanaFernando" /><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushaSamaranayake&" alt="DhanushaSamaranayake" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalpanaFernando&" alt="KalpanaFernando" /></p><br>
 
 
 
