@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hello...!🙋‍♂️, I'm Kalpana Fernando 🤘 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KalpanaFernando&label=Profile%20views&color=b60e21&style=flat" alt="KalpanaFernando"/> </p>
+<p align="left"> <img src="https://blog.devgenius.io/misconceptions-about-software-engineers-dfa9c321c67b" alt="KalpanaFernando"/> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
 
