@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<img align="center" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="center" alt="Coding" width="400" height="200" src="https://blog.devgenius.io/misconceptions-about-software-engineers-dfa9c321c67b">
 
 <br/>
 <hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
