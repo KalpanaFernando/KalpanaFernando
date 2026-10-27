@@ -1,69 +1,58 @@
-<!----
-- 👋 Hi, I’m @KalpanaFernando
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Kalpana Fernando</h1>
 
-
-KalpanaFernando/KalpanaFernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hello...!🙋‍♂️, I'm Kalpana Fernando 🤘 </h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KalpanaFernando&label=Profile%20views&color=b60e21&style=flat" alt="KalpanaFernando"/> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
-
-
-
-- 💻 Currently Learning Android Application Development & Vector Arts
-- 👀 Looking to collaborate with Open Source Projects.
-- 😎 Never stop Dreaming...✨
-- 📫 How to contact me **pavithrafernando547@gmail.com**
-- 🎮 Play games and do coding...!🧑‍💻
-
-<br />
-
-<img align="center" alt="Coding" width="400" height="400" src="https://i.imgur.com/rHlEdDq.gif">
-
-<br/>
-<hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kalpana-fernando-26a224251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KalpanaFernando" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer</b><br>
+  BSc (Hons) Information Technology, SLIIT
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalpana-fernando/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:pavithrafernando547@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  Sri Lanka
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## About
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br><br>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>    <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>   <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
- </p>
-    
+Information Technology graduate with experience in full-stack web and mobile application development, IT support and software testing. I build applications with React, Node.js, Laravel, Java and Kotlin, and completed a final-year research project in machine learning using Python and TensorFlow.
 
-<br />
-<hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
+---
 
+## Technical Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=KalpanaFernando&&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=black&bg_color=white">
+| Area | Technologies |
+|---|---|
+| Frontend | React, JavaScript, HTML, CSS, Bootstrap |
+| Backend | Node.js, Express.js, Laravel (PHP), Java |
+| Mobile | Kotlin (Android), Flutter |
+| Databases | MySQL, Firebase |
+| Machine Learning | Python, TensorFlow |
+| Tools | Git, GitHub, Postman, Azure DevOps, Visual Studio Code |
 
-<br /> 
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KalpanaFernando&show_icons=true&locale=en&layout=compact" alt="KalpanaFernando" /><br><br>
+## Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalpanaFernando&" alt="KalpanaFernando" /></p><br>
+| Project | Description | Technologies |
+|---|---|---|
+| Foodies | Social media platform | React, Node.js |
+| Food Distribution System | Web application for food distribution | Laravel, MySQL, Bootstrap |
+| Online Marketplace | Android mobile application | Kotlin, Firebase |
+| Music Recommendation Research | Final-year research on personalized playlists based on the user's surroundings | Python, TensorFlow |
 
+---
 
+## Experience
 
+- **IT Support**, Ceylon Shipping Corporation Ltd (Apr 2024 – Apr 2025)
+- **QA Intern**, Innova Softworks Pvt Ltd (Jan 2023 – Jul 2023)
+
+---
+
+## Contact
+
+- Email: pavithrafernando547@gmail.com
+- LinkedIn: [linkedin.com/in/kalpana-fernando](https://www.linkedin.com/in/kalpana-fernando/)
