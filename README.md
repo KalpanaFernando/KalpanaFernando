@@ -1,7 +1,7 @@
 <h1 align="center">Kalpana Fernando</h1>
 
 <p align="center">
-  <b>Software Engineer</b><br>
+  <b>Information Technology Graduate</b><br>
   BSc (Hons) Information Technology, SLIIT
 </p>
 
